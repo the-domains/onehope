@@ -1,0 +1,14 @@
+layout_spectrum: 0.4330397571902722
+typography_spectrum: 0.7454988320823759
+color:
+  brandStrength: 0.4599156486801803
+  lightness: 0.4754522158764303
+  saturation: 0.46493861521594226
+  rhythmicContrast: 0.9143160243984312
+  brandColors:
+    - '#EA8741'
+    - '#005B8C'
+    - '#00AAD6'
+    - '#F9F9F9'
+    - '#B3B3B3'
+name: OneHope
